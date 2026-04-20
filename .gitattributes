@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.Nesstar filter=lfs diff=lfs merge=lfs -text
+*.dta filter=lfs diff=lfs merge=lfs -text
+*.DTA filter=lfs diff=lfs merge=lfs -text
