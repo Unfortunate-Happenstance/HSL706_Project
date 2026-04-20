@@ -44,7 +44,3 @@ outputs/
 
 # Local editor/runtime files
 .python-version
-
-# Keep datasets tracked in project folders
-!**/data/
-!**/data/**
